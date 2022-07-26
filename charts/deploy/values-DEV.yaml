@@ -1,4 +1,4 @@
 replicaCount: 1
 image:
   foo: baz
-  tag: quay.io/dwinchell_redhat/dwinchell/spring-petclinic:81d220e7cc4077edb2d5e71efbb3f324d03dff55 # manual edit
+  tag: quay.io/dwinchell_redhat/dwinchell/spring-petclinic:8009fcf4c503bef65e39225fa94f21e4377c0184 # manual edit
